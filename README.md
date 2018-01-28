@@ -11,3 +11,5 @@ AU/NZ hobby electronics store. The signals drive the MOSFET Gates through 1k ohm
 resisters, The source is connected to GND, and the strip connected to the drain,
 as the strip I used has a common annode. These MOSFETs are rated to 5A, way more
 than the strip I used needed (about 1.5A max).
+
+Video of it in action is at https://youtu.be/g-KZkL_qF9g
