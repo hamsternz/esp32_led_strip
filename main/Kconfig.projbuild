@@ -1,0 +1,20 @@
+menu "LED Strip configuration"
+        
+config LED_STRIP_R_GPIO
+    int "STRIP_R_PIN"
+    default 25
+    help
+        GPIO pin to blink red
+
+config LED_STRIP_G_GPIO
+    int "STRIP_G_PIN"
+    default 26
+    help
+        GPIO pin to blink green
+
+config LED_STRIP_B_GPIO
+    int "STRIP_B_PIN"
+    default 27
+    help
+        GPIO pin to blink blue
+endmenu
